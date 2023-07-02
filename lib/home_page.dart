@@ -125,7 +125,7 @@ class _HomePageState extends State<HomePage> {
             ),
           ),
           const SizedBox(
-            height: 10,
+            height: 25,
           ),
           RichText(
             text: TextSpan(children: [
