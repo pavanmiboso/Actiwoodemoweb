@@ -131,7 +131,7 @@ class _HomePageState extends State<HomePage> {
             text: TextSpan(children: [
               const TextSpan(text: 'privacy policy '),
               TextSpan(
-                text: 'click here! go to  therer',
+                text: 'click here!',
                 style: const TextStyle(color: Colors.blue),
                 recognizer: TapGestureRecognizer()
                   ..onTap = () => html.window
